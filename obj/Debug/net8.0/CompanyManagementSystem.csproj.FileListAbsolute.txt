@@ -1,0 +1,14 @@
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.AssemblyInfoInputs.cache
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.AssemblyInfo.cs
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.csproj.CoreCompileInputs.cache
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\bin\Debug\net8.0\CompanyManagementSystem.exe
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\bin\Debug\net8.0\CompanyManagementSystem.deps.json
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\bin\Debug\net8.0\CompanyManagementSystem.runtimeconfig.json
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\bin\Debug\net8.0\CompanyManagementSystem.dll
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\bin\Debug\net8.0\CompanyManagementSystem.pdb
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.dll
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\refint\CompanyManagementSystem.dll
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.pdb
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\CompanyManagementSystem.genruntimeconfig.cache
+E:\ASP.NET\CompanyManagementSystem\CompanyManagementSystem\obj\Debug\net8.0\ref\CompanyManagementSystem.dll
